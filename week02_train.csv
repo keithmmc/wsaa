@@ -1,0 +1,48 @@
+N	51.9018	-8.4582	B213	03 Feb 2024	B213\nCork to Mallow\nExpected Departure 11:00	To Mallow
+N	51.9018	-8.4582	B508	03 Feb 2024	B508\nCork to Cobh\nExpected Departure 11:00	To Cobh
+N	51.9018	-8.4582	B558	03 Feb 2024	B558\nCork to Cobh\nExpected Departure 11:00	To Cobh
+N	51.9112	-8.3254	B160	03 Feb 2024	B160\nGlounthaune to Midleton\nExpected Departure 10:50	To Midleton
+N	51.9212	-8.17579	B130	03 Feb 2024	B130\nMidleton to Cork\nExpected Departure 11:00	To Cork
+N	51.9212	-8.17579	B913	03 Feb 2024	B913\nMidleton to Cork\nExpected Departure 11:00	To Cork
+N	51.9212	-8.17579	B914	03 Feb 2024	B914\nMidleton to Glounthaune\nExpected Departure 11:00	To Glounthaune
+N	52.2667	-7.1183	A511	03 Feb 2024	A511\nWaterford to Dublin Heuston\nExpected Departure 11:00	To Dublin Heuston
+N	52.271	-9.69846	A307	03 Feb 2024	A307\nTralee to Mallow\nExpected Departure 11:05	To Mallow
+N	53.2736	-9.04696	A711	03 Feb 2024	A711\nGalway to Dublin Heuston\nExpected Departure 11:05	To Dublin Heuston
+N	53.2951	-6.13498	E856	03 Feb 2024	E856\nDun Laoghaire to Malahide\nExpected Departure 11:02	Northbound
+N	53.3531	-6.24591	A904	03 Feb 2024	A904\nDublin Connolly to Sligo\nExpected Departure 11:00	Northbound
+N	53.3531	-6.24591	D805	03 Feb 2024	D805\nDublin Connolly to Dundalk\nExpected Departure 11:05	Northbound
+N	53.378	-6.58993	P739	03 Feb 2024	P739\nMaynooth to Dublin Connolly\nExpected Departure 11:08	Southbound
+N	53.3891	-6.07401	E418	03 Feb 2024	E418\nHowth to Dun Laoghaire\nExpected Departure 11:08	Southbound
+N	54.0007	-6.41291	P709	03 Feb 2024	P709\nDundalk to Dublin Connolly\nExpected Departure 11:05	Southbound
+R	0	0	A206	03 Feb 2024	A206\n09:00 - Dublin Heuston to Mallow (11 mins late)\nDeparted LJ896 next stop Charleville	To Mallow
+R	0	0	A210	03 Feb 2024	A210\n11:00 - Dublin Heuston to Mallow (-11 mins late)\nArrived Inchicore Advance Starter next stop Portlaoise	To Mallow
+R	0	0	A702	03 Feb 2024	A702\n09:25 - Dublin Heuston to Galway (-1 mins late)\nDeparted Athlone Midland Yard next stop Ballinasloe	To Galway
+R	0	0	A802	03 Feb 2024	A802\n09:10 - Athlone to Westport (3 mins late)\nDeparted Athlone Midland Yard next stop Roscommon	To Westport
+R	52.1396	-8.65521	A211	03 Feb 2024	A211\n10:48 - Mallow to Dublin Heuston (0 mins late)\nDeparted Mallow next stop Charleville	To Dublin Heuston
+R	52.1396	-8.65521	A302	03 Feb 2024	A302\n09:26 - Mallow to Tralee (0 mins late)\nDeparted Mallow next stop Banteer	To Tralee
+R	52.8489	-7.7174	A209	03 Feb 2024	A209\n09:48 - Mallow to Dublin Heuston (1 mins late)\nDeparted Lisduff next stop Portlaoise	To Dublin Heuston
+R	52.8999	-7.60259	A208	03 Feb 2024	A208\n10:00 - Dublin Heuston to Mallow (0 mins late)\nDeparted Ballybrophy next stop Thurles	To Mallow
+R	52.992	-6.9762	A504	03 Feb 2024	A504\n10:15 - Dublin Heuston to Waterford (0 mins late)\nDeparted Athy next stop Carlow	To Waterford
+R	53.1855	-6.80807	P211	03 Feb 2024	P211\n10:25 - Portlaoise to Dublin Heuston (2 mins late)\nDeparted Newbridge next stop Sallins	To Dublin Heuston
+R	53.2469	-6.66386	D206	03 Feb 2024	D206\n10:20 - Dublin Heuston to Portlaoise (0 mins late)\nDeparted Sallins next stop Newbridge	To Portlaoise
+R	53.2704	-7.49985	A709	03 Feb 2024	A709\n09:30 - Galway to Dublin Heuston (0 mins late)\nDeparted Tullamore next stop Portarlington	To Dublin Heuston
+R	53.3206	-6.21112	E415	03 Feb 2024	E415\n10:20 - Howth to Dun Laoghaire (1 mins late)\nArrived Sydney Parade next stop Booterstown	Southbound
+R	53.3206	-6.21112	E961	03 Feb 2024	E961\n10:47 - Dun Laoghaire to Howth (0 mins late)\nDeparted Sydney Parade next stop Sandymount	Northbound
+R	53.3334	-6.40628	A227	03 Feb 2024	A227\n18:48 - Mallow to Dublin Heuston (20 mins late)\nDeparted Clondalkin next stop Dublin Heuston	To Dublin Heuston
+R	53.3334	-6.40628	A231	03 Feb 2024	A231\n21:10 - Mallow to Dublin Heuston (-13 mins late)\nDeparted Clondalkin next stop Dublin Heuston	To Dublin Heuston
+R	53.3531	-6.24591	E416	03 Feb 2024	E416\n10:35 - Malahide to Dun Laoghaire (-1 mins late)\nArrived Dublin Connolly next stop Tara Street	Southbound
+R	53.3629	-6.22753	E960	03 Feb 2024	E960\n10:25 - Dun Laoghaire to Howth (1 mins late)\nDeparted Clontarf Road next stop Killester	Northbound
+R	53.3755	-6.33135	D910	03 Feb 2024	D910\n10:45 - Dublin Connolly to Maynooth (0 mins late)\nArrived Ashtown next stop Navan Road Parkway	Northbound
+R	53.3816	-6.37149	P738	03 Feb 2024	P738\n10:38 - Maynooth to Dublin Connolly (0 mins late)\nArrived Castleknock next stop Navan Road Parkway	Southbound
+R	53.3909	-6.15672	E417	03 Feb 2024	E417\n10:50 - Howth to Dun Laoghaire (0 mins late)\nDeparted Howth Junction next stop Kilbarrack	Southbound
+R	53.392	-6.11448	E959	03 Feb 2024	E959\n10:08 - Dun Laoghaire to Howth (1 mins late)\nDeparted Sutton next stop Howth	Northbound
+R	53.4032	-6.14839	D804	03 Feb 2024	D804\n10:45 - Dublin Connolly to Drogheda (1 mins late)\nDeparted Clongriffin next stop Portmarnock	Northbound
+R	53.523	-7.34608	A905	03 Feb 2024	A905\n09:05 - Sligo to Dublin Connolly (1 mins late)\nArrived Mullingar next stop Enfield	Southbound
+R	53.6118	-6.18226	P708	03 Feb 2024	P708\n10:15 - Dundalk to Dublin Connolly (1 mins late)\nDeparted Balbriggan next stop Skerries	Southbound
+R	53.6794	-6.24253	D803	03 Feb 2024	D803\n10:07 - Dublin Connolly to Drogheda (0 mins late)\nArrived Laytown next stop Drogheda	Northbound
+R	53.7243	-7.79574	A902	03 Feb 2024	A902\n09:05 - Dublin Connolly to Sligo (2 mins late)\nDeparted Longford next stop Dromod	Northbound
+R	54.0007	-6.41291	A124	03 Feb 2024	A124\n09:30 - Dublin Connolly to Belfast (2 mins late)\nDeparted Dundalk next stop Newry	Northbound
+R	54.0007	-6.41291	B171	03 Feb 2024	B171\n09:36 - Belfast to Dublin Connolly (0 mins late)\nDeparted Dundalk next stop Drogheda	Southbound
+R	54.2723	-8.48249	A907	03 Feb 2024	A907\n11:05 - Sligo to Dublin Connolly (-103 mins late)\nDeparted Sligo next stop Collooney	Southbound
+T	53.2951	-6.13498	E414	03 Feb 2024	E414\n10:05 - Howth to Dun Laoghaire(0 mins late)\nTERMINATED Dun Laoghaire at 10:57	Southbound
+T	53.378	-6.58993	D909	03 Feb 2024	D909\n10:15 - Dublin Connolly to Maynooth(0 mins late)\nTERMINATED Maynooth at 10:58	Northbound
